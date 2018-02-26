@@ -3,7 +3,7 @@ package Controller;
 /**
  * Created by phanh on 2/26/2018.
  */
-// Each cell have location x and y
+//  Each cell have location x and y
 public class Cell {
     private int x;
     private int y;

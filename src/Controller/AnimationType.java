@@ -3,7 +3,6 @@ package Controller;
 /**
  * Created by phanh on 2/26/2018.
  */
-//    
 public enum AnimationType {
     CHECK,
     SPAWN,
